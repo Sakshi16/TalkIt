@@ -12,7 +12,7 @@
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.6",
     "express": "^4.17.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-dialogflow": "^3.2.2",
